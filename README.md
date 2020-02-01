@@ -1,4 +1,8 @@
 ﻿# SkyblockBot
+ 
+ 
+You will also need the node_modules, GitHub doesnt allow full folder uploads so it is on a mediafire. (https://www.mediafire.com/file/rng8cvkqfgiqyay/node_modules.zip/file) they need unziped and put into a folder. should look like this (http://prntscr.com/qw7nuu)
+
 
 How to Use VortexPvP Skyblock Bot?
 
@@ -25,12 +29,20 @@ Having issues?
 Dont hesitate to message me on discord @Kieran#2769
 
 Current Features:
-Outpost Alerts,
-Auto Baltop Every 30mins,
-Server Chat Logging,
-Whitelist,
-Bot Bank (-pay, -bal) Logs all deposits and withdraws,
-Bot PM Logging,
-Bot Auto Relogging and relog command,
-Auto Welcome and role adding,
+Outpost Alerts
+
+Auto Baltop Every 30mins
+
+Server Chat Logging
+
+Whitelist to allow island members to tp!
+
+Bot Bank (-pay, -bal) Logs all deposits and withdraws
+
+Bot PM Logging
+
+Bot Auto Relogging and relog command
+
+Auto Welcome and role adding
+
 Any Suggestions? Contact me on discord!
