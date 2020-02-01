@@ -25,11 +25,12 @@ Having issues?
 Dont hesitate to message me on discord @Kieran#2769
 
 Current Features:
-Outpost Alerts
-Auto Baltop Every 30mins
-Server Chat Logging
-Whitelist
-Bot Bank (-pay, -bal) Logs all deposits and withdraws
-Bot PM Logging
-Bot Auto Relogging and relog command
-Auto Welcome and role adding
+Outpost Alerts,
+Auto Baltop Every 30mins,
+Server Chat Logging,
+Whitelist,
+Bot Bank (-pay, -bal) Logs all deposits and withdraws,
+Bot PM Logging,
+Bot Auto Relogging and relog command,
+Auto Welcome and role adding,
+Any Suggestions? Contact me on discord!
