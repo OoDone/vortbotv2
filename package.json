@@ -1,0 +1,13 @@
+{
+  "name": "skyblockbot",
+  "version": "1.0.0",
+  "description": "simple skyblock bot",
+  "main": "index.js",
+  "author": "HelpUs//Kieran",
+  "license": "MIT",
+  "dependencies": {
+    "config-yml": "^0.10.3",
+    "discord.js": "^11.5.1",
+    "mineflayer": "^2.10.0"
+  }
+}

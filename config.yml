@@ -1,0 +1,31 @@
+Settings:
+  Bot:
+    token: "TOKEN" ##Your Discord Bot Token.
+    ownerID: "OwnerID" ##Your Discord ID
+    guild: "ServerID" ##Id of the discord server.
+
+    thumbnail: 'https://i.imgur.com/tglHHMf.jpg' ##Needed For Embed Msgs.
+    activity: "VortexPvP Skyblock" ##Message Next to LISTENING,PLAYING,WATCHING.
+    type: "WATCHING" ##Can be, LISTENING,PLAYING,WATCHING.
+    IslandRole: "Island" ##Main Role Needed to use commands The Role "Dev" And "*" Are hardcoded roles which can also use commands.
+    currentserver: "skyblock" ##Command that is processed when alt joins, You do not need the /.
+    prefix: "-" ##Prefix can be anything you please. it is needed.
+    FirstJoinRole: "public" ##Auto Role when new member joins.
+  Channels:
+    DepositLogs: "bottesting" ##Channel to Log Payments to Bot, Balance, and Withdraws.
+    BotLogs: "bottesting" ##Main Log System for Commands.
+    BotPms: "bottesting" ##Logs All the Bots Private messages.
+    Welcome: "welcome" ##Welcomes new members to your discord, and gives them a role.
+    OutpostSecure: "bottesting" ##Logs whos securing/Capturing the outpost.
+    OutpostLosing: "bottesting" ##Logs Whos Losing the outpost.
+    Baltop: "bottesting" ##Needed to show current Baltop Top.
+    IslandChat: "bottesting" ##Main Channel for your island.
+    IngameChat: "server-chat" ##Logs the server chat.
+  Minecraft:
+    host: "play.vortexpvp.com" ##Servers Ip.
+    port: "25565" ##25565 is the default port.
+    version: "1.8" ##Usually 1.8 works fine.
+    account:
+      username: "IGN" ##IGN Of your account/Bot.
+      email: "EMAIL" ##Email needed to login.
+      password: "PASSWORD" ##Password Needed to login.
