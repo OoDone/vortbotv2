@@ -1,6 +1,6 @@
 {
   "name": "skyblockbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple skyblock bot",
   "main": "index.js",
   "author": "HelpUs//Kieran",
