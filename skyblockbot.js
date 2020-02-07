@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('./bot.js');
+require('./index.js');
