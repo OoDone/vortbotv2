@@ -10,4 +10,7 @@
     "discord.js": "^11.5.1",
     "mineflayer": "^2.10.0"
   }
+  "bin": {
+   "skyblockbot": "./skyblockbot.js"
+ }
 }
