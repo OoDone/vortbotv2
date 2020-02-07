@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 const fs = require("fs");
 const config = require('config-yml');
 let bot = null;
-joinAccount();
+joinServer();
 var commandInterval = null;
 const prefix = (`${config.Settings.Bot.prefix}`);
 const thumbnail = (`${config.Settings.Bot.thumbnail}`);
@@ -16,7 +16,7 @@ const client = new Discord.Client({disableEveryone: true});
 function sleep(ms) {
 	return new Promise(resolve => setTimeout(resolve, ms));
 }
-async function joinAccount() {  // Create + make account join
+async function joinServer() {  // Create + make account join
 	bot = mineflayer.createBot({
 		viewDistance: 'tiny',
 		host: config.Settings.Minecraft.host,
