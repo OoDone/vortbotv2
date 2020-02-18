@@ -10,7 +10,6 @@ const server = (`${config.Settings.Minecraft.host}`);
 var baltopEmbed;
 var baltopTimer = null;
 var baltopBuffer;
-const client = new Discord.Client({disableEveryone: true});
 //IngameBotstuff
 function sleep(ms) {
 	return new Promise(resolve => setTimeout(resolve, ms));
